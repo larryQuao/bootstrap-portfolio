@@ -1,8 +1,14 @@
 Learn Bootstrap 5 and SASS by Building a Portfolio Website
 
+*******~~~~~~~~~ Resourses ~~~~~~~~~********
+1. manypixels.co/gallery
+
 *******~~~~~~~*******
 12th October, 2024
 Video 49:03
 
 13th October, 2024
 Video 1:11:41 / 5:02:22
+
+30 October, 2024
+Video 1:36:21 / 5:02:22
