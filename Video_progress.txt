@@ -2,6 +2,8 @@ Learn Bootstrap 5 and SASS by Building a Portfolio Website
 
 *******~~~~~~~~~ Resourses ~~~~~~~~~********
 1. manypixels.co/gallery
+2. getwaves.io
+3. Glightbox
 
 *******~~~~~~~*******
 12th October, 2024
