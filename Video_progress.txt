@@ -5,6 +5,11 @@ Learn Bootstrap 5 and SASS by Building a Portfolio Website
 2. getwaves.io
 3. Glightbox
 
+
+*******~~~~~~~~~ Bootstrap Keywords ~~~~~~~~~~*******
+mb : margin-bottom
+
+
 *******~~~~~~~*******
 12th October, 2024
 Video 49:03
