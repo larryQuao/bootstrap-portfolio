@@ -4,7 +4,8 @@ Learn Bootstrap 5 and SASS by Building a Portfolio Website
 1. manypixels.co/gallery
 2. getwaves.io
 3. Glightbox
-
+4. Fontawesome Cheetsheet
+5. tablericons.com
 
 *******~~~~~~~~~ Bootstrap Keywords ~~~~~~~~~~*******
 mb : margin-bottom
@@ -28,3 +29,8 @@ Video 2:41:37 / 5:02:22
 
 11th November, 2024
 Video 3:45:23 / 5:02:22
+
+Finished Watching and practicing Bootstrap and Sass on 12th November, 2024
+Using 1 month three days
+
+Do better than this
